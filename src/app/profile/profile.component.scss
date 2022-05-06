@@ -1,0 +1,45 @@
+#container {
+  text-align: center;
+  border: 2px black;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 10%;
+  background-color:white;
+  height: 85%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+#container
+ h2 {
+  font-size: 15px;
+  line-height: 22px;
+  color:black;
+  margin: 0;
+  font-family: 'Arial Black';
+  text-align: left;
+
+}
+#container p {
+  font-size:22px;
+  line-height: 22px;
+  color:black;
+  margin: 0;
+  font-family: 'Arial Black';
+  text-align: center;
+}
+.ion-card img{
+ width: 100px;
+ height: 100px;
+  }
+  
+ .ion-avatar img{
+  width: 165px;
+  height: 160px;
+  margin: auto;
+}
+
+
+
+ 
